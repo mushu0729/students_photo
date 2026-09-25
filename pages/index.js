@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+rimport { useEffect, useRef, useState } from "react";
 
 const GRADE = "10th";
 const SECTIONS = ["10th A", "10th B", "10th C"];
@@ -171,7 +171,7 @@ export default function Home() {
           <label htmlFor="namesArea">Student names, one per line</label>
           <textarea
             id="namesArea"
-            placeholder={"Fathima\nAyesha\nLakshmi"}
+            placeholder={"Student Names"}
             value={namesText}
             onChange={(e) => setNamesText(e.target.value)}
           />
