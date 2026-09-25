@@ -144,7 +144,7 @@ export default function Home() {
   return (
     <>
       <header>
-        <h1>Student Photo Collection</h1>
+        <h1>Government Girls High School</h1>
         <p className="sub">{GRADE} &middot; synced across every device you open this on</p>
       </header>
 
