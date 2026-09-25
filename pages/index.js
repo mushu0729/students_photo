@@ -1,4 +1,4 @@
-rimport { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const GRADE = "10th";
 const SECTIONS = ["10th A", "10th B", "10th C"];
