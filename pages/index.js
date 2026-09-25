@@ -145,7 +145,7 @@ export default function Home() {
     <>
       <header>
         <h1>Government Girls High School</h1>
-        <p className="sub">{GRADE} &middot; synced across every device you open this on</p>
+        <p className="sub">{GRADE} &middot; Application for collecting photographs</p>
       </header>
 
       <main>
